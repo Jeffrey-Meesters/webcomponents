@@ -18,7 +18,7 @@ export class JBtn extends LitElement {
   constructor() {
     super();
 
-    this.text = "btn";
+    this.text = "button";
   }
 
   _clicked() {
